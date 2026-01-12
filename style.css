@@ -125,14 +125,12 @@ nav {
     box-shadow: 0 10px 30px rgba(0,0,0,0.1);
 }
 
-
-.apresentacao {
-        flex-direction: column-reverse;
-        text-align: center;
-
 .fotocontentor {
         flex: 0 0 200px;
         margin-bottom: 30px;
+}
+.foto-contentor2 {
+    flex: 0 0 150px; 
 }
 
 
