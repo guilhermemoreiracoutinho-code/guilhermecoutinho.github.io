@@ -115,7 +115,7 @@ nav {
 }
 
 .foto-contentor {
-    flex: 0 0 200px; 
+    flex: 0 0 50px; 
 }
 
 .minha-foto {
@@ -134,4 +134,5 @@ nav {
         flex: 0 0 200px;
         margin-bottom: 30px;
 }
+
 
