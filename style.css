@@ -110,15 +110,15 @@ nav {
     gap: 50px;
 }
 
-.texto-apresentacao {
+.textoapresentacao {
     flex: 1; /
 }
 
-.foto-contentor {
+.fotocontentor {
     flex: 0 0 50px; 
 }
 
-.minha-foto {
+.minhafoto {
     width: 100%;
     height: auto;
     border-radius: 20px; 
@@ -130,9 +130,10 @@ nav {
         flex-direction: column-reverse;
         text-align: center;
 
-.foto-contentor {
+.fotocontentor {
         flex: 0 0 200px;
         margin-bottom: 30px;
 }
+
 
 
