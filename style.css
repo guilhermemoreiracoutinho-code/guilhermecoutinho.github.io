@@ -101,3 +101,36 @@ nav {
 }
 
 .social a:hover { color: #000; }
+
+
+.apresentacao {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+}
+
+.texto-apresentacao {
+    flex: 1; /
+}
+
+.foto-contentor {
+    flex: 0 0 300px; 
+}
+
+.minha-foto {
+    width: 100%;
+    height: auto;
+    border-radius: 20px; 
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+
+.apresentacao {
+        flex-direction: column-reverse;
+        text-align: center;
+
+.foto-contentor {
+        flex: 0 0 200px;
+        margin-bottom: 30px;
+}
