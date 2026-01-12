@@ -114,24 +114,24 @@ nav {
     flex: 1; /
 }
 
-.fotocontentor {
-    flex: 0 0 100px; 
-}
 
-.minhafoto {
-    width: 60%;
+.minha-foto {
+    width: 100%;
     height: auto;
-    border-radius: 20px; 
-    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    border-radius: 20px;
 }
 
 .fotocontentor {
         flex: 0 0 200px;
-        margin-bottom: 30px;
 }
-.foto-contentor2 {
-    flex: 0 0 50px; 
+.fotocontentor2 {
+    flex: 0 0 100px; 
 }
+.minhafoto{
+    width: 100%;
+    height: auto;
+}    
+
 
 
 
