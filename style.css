@@ -16,10 +16,9 @@ body {
 /* Nav */
 nav {
     display: flex;
-    justify-content: space-between; 
-    align-items: center;           
-    margin-bottom: 80px;           
-    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 120px; 
 }
 
 .logo {
@@ -132,6 +131,7 @@ nav {
     width: 100%;
     height: auto;
 }    
+
 
 
 
