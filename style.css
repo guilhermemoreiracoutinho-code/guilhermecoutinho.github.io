@@ -123,15 +123,16 @@ nav {
 }
 
 .fotocontentor {
-        flex: 0 0 100px;
+        flex: 0 0 150px;
 }
 .fotocontentor2 {
-    flex: 0 0 75px; 
+    flex: 0 0 100px; 
 }
 .minhafoto{
     width: 100%;
     height: auto;
 }    
+
 
 
 
